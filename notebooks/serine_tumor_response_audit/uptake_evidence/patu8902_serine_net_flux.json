@@ -1,0 +1,26 @@
+{
+  "study": "Parker et al. 2020",
+  "doi": "10.1158/2159-8290.CD-19-0959",
+  "panel": "Supplementary Figure S1A, PDF page 3 (one-based)",
+  "cell_line": "PaTu-8902 (8902 on panel)",
+  "analyte": "serine",
+  "signed_net_flux_nmol_per_million_cells_h": -21.452513966480446,
+  "positive_net_consumption_nmol_per_million_cells_h": 21.452513966480446,
+  "pixel_allowance_nmol_per_million_cells_h": 0.6703910614525139,
+  "positive_net_consumption_mmol_cell_h": 2.1452513966480446e-11,
+  "positive_net_consumption_umol_cell_h": 2.1452513966480445e-08,
+  "raw_replicates_extracted": false,
+  "culture_medium": "DMEM; different conditions from Banh S2D",
+  "conditioning_h": "24-72, panel-wide range; exact per-line time not resolved",
+  "normalization": "viable cell number integrated over conditioning time",
+  "type": "approximate plotted mean of net extracellular flux, NOT Vmax",
+  "source_sha256": "494f27115036465f963e5916657b215f65f6c9c6dd5f8db7c8ff1f61399bd823",
+  "digitization": {
+    "render_scale": 4,
+    "zero_y_px": 437.0,
+    "minus30_y_px": 616.0,
+    "endpoint_y_px": 565.0,
+    "endpoint_allowance_px": 4.0,
+    "serine_bar_x_px": 690
+  }
+}

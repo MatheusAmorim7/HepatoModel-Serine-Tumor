@@ -1,0 +1,9 @@
+cobra==0.32.1
+optlang==1.9.1
+swiglpk==5.0.13
+numpy==2.5.2
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+python-libsbml==5.21.1
+sympy==1.14.0
